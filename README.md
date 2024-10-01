@@ -17,10 +17,9 @@ Developed a user-friendly platform that allows students to easily find and view 
 ![image](https://github.com/user-attachments/assets/2fe93e8f-2f1d-4764-a218-bae3cad5ad9d)
 ![image](https://github.com/user-attachments/assets/5e4a2dfb-e130-4327-85ba-a0e063d1ea65)
 ![image](https://github.com/user-attachments/assets/706f91de-0d18-4e4f-bada-b61c39cedb12)
+![image](https://github.com/user-attachments/assets/8c57b4e3-2f9e-4b8d-87ac-1eb4e3480c82)
 
 ![image](https://github.com/user-attachments/assets/20c262e8-114a-4a5e-a288-c6f5d6aa68b9)
-![Uploading image.png…]()
-![Uploading image.png…]()
 
 
 
