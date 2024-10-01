@@ -1,0 +1,14 @@
+create database mydatabase1;
+USE mydatabase1;
+CREATE TABLE hostel (
+    hostel_name VARCHAR(255) NOT NULL,
+    room_no INT NOT NULL,
+    beds INT
+);
+SELECT * FROM hostel;
+CREATE TABLE student(name varchar(20),password varchar(20));
+CREATE TABLE admin1(name varchar(20),password varchar(20));
+select * from admin1;
+select * from student;
+insert into admin1 values('admin','admin123');
+insert into admin1 values('warden','1234');
