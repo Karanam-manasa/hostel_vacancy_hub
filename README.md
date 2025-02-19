@@ -24,18 +24,22 @@ Designed and developed an intuitive hostel accommodation platform, enabling stud
 2. Connect to MySQL Workbench:
    Use the following code to establish a connection:
    
-   ![image](https://github.com/user-attachments/assets/2fa20b79-4b77-4de3-868c-240a442d2f27)
+   ![Screenshot 2025-02-19 213710](https://github.com/user-attachments/assets/3ad0500b-d3f7-42b1-9d7d-055087f42fd7)
+
 3. Run the Application:
     - After setting up the connection, run the application to begin using the platform.
 
 # Login Page:
 
-![Screenshot 2025-02-18 175600](https://github.com/user-attachments/assets/e686dc6d-256d-487a-bbf1-74752720e028)
+![Screenshot 2025-02-18 175600](https://github.com/user-attachments/assets/b60cef2c-835f-4e5f-9022-b50b67b544a4)
+
 
 # Admin Dashboard:
 
-![Screenshot (1)](https://github.com/user-attachments/assets/180f0e11-9996-47ef-80ee-a67438f42a77)
+![Screenshot (1)](https://github.com/user-attachments/assets/563817fa-166c-4fe8-8a33-500b1a607a74)
+
 
 # Student Dashboard:
 
-![Screenshot (8)](https://github.com/user-attachments/assets/6920dd0e-e2f7-47a0-a7e9-ca351afe352b)
+![Screenshot (8)](https://github.com/user-attachments/assets/4ae3d817-9a11-45a3-9009-3174750add29)
+
