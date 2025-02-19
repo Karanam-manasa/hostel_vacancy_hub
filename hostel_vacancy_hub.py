@@ -71,7 +71,7 @@ class Login:
                                   command=self.check_student_login)
         submit_btn.grid(row=3, column=0, columnspan=2, pady=10)
 
-        student_image = Image.open("C:\\Users\\manas\\OneDrive\\Desktop\\student.jpg")  
+        student_image = Image.open("D:\manasa\projects\student_logo.jpg")  
         student_image = student_image.resize((60, 60))
         self.student_logo = ImageTk.PhotoImage(student_image)
         Label(student_login_frame, image=self.student_logo, bg="lightgreen").grid(row=3, column=0, padx=5, pady=10, sticky="w")
@@ -99,7 +99,7 @@ class Login:
                                   command=self.check_admin_login)
         admin_submit_btn.grid(row=3, column=0, columnspan=2, pady=10)
 
-        admin_image = Image.open('D:\\manasa\\projects\\admin.jpg') 
+        admin_image = Image.open("D:\manasa\projects\admin_logo.jpg") 
         admin_image = admin_image.resize((60, 60)) 
         self.admin_logo = ImageTk.PhotoImage(admin_image)
         Label(admin_login_frame, image=self.admin_logo, bg="lightgray").grid(row=3, column=0, padx=5, pady=10, sticky="w")
@@ -317,7 +317,7 @@ class Dashboard:
         self.sidebar = Frame(self.root, bg="#2c3e50", width=100, height=600)
         self.sidebar.pack(side="left", fill="y")
 
-        img_path ="D:\\manasa\\projects\\admin.jpg"  
+        img_path ="D:\manasa\projects\admin_logo.jpg" 
         try:
             img = Image.open(img_path)
             img = img.resize((50, 50), Image.LANCZOS)
